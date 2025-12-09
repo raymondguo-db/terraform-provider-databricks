@@ -3,7 +3,7 @@ subcategory: "Databricks SQL"
 ---
 # databricks_sql_alert Resource
 
-!> This resource is deprecated! Please switch to [databricks_alert](alert.md#migrating-from-databricks_sql_alert-resource).
+!> This resource is deprecated and will be no longer supported on March 2, 2026. Please switch to [databricks_alert](alert.md#migrating-from-databricks_sql_alert-resource).
 
 This resource allows you to manage [Databricks SQL Alerts](https://docs.databricks.com/sql/user/queries/index.html).
 

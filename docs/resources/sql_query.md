@@ -3,7 +3,7 @@ subcategory: "Databricks SQL"
 ---
 # databricks_sql_query Resource
 
-!> This resource is deprecated! Please switch to [databricks_query](query.md#migrating-from-databricks_sql_query-resource).
+!> This resource is deprecated and will be no longer supported on March 2, 2026. Please switch to [databricks_query](query.md#migrating-from-databricks_sql_query-resource).
 
 To manage [SQLA resources](https://docs.databricks.com/sql/get-started/concepts.html) you must have `databricks_sql_access` on your [databricks_group](group.md#databricks_sql_access) or [databricks_user](user.md#databricks_sql_access).
 

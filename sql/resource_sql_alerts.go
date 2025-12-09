@@ -179,6 +179,6 @@ func ResourceSqlAlert() common.Resource {
 			return w.AlertsLegacy.DeleteByAlertId(ctx, data.Id())
 		},
 		Schema:             s,
-		DeprecationMessage: "This resource is deprecated and will be removed in the future. Please use the `databricks_alert` resource instead.",
+		DeprecationMessage: "This resource is deprecated and will be no longer supported on March 2, 2026. Please use the `databricks_alert` resource instead.",
 	}
 }

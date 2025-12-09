@@ -3,7 +3,7 @@ subcategory: "Databricks SQL"
 ---
 # databricks_sql_visualization Resource
 
-!> This resource is deprecated and will be removed in future.
+!> This resource is deprecated and will be no longer supported on March 2, 2026.
 
 -> Please switch to [databricks_dashboard](dashboard.md) to author new AI/BI dashboards using the latest tooling
 
